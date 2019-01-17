@@ -1,0 +1,37 @@
+body{
+    
+}
+header{
+    height: 100px;
+    background-color: gray;
+    padding: 10px;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    background-color:blue;
+}
+.main-content{
+    height: 400px;
+    padding: 100px;
+}
+.blue, .teal, .grass, .yellow{
+    height: 150px;
+    width: 100%;
+}
+.blue{
+    background-color: blue;
+}
+.teal{
+    background-color: teal;
+}
+.grass{
+    background-color: greenyellow;
+}
+.yellow{
+    background-color:yellow;
+}
+p {
+    font-size: 20pt;
+    line-height: 2;
+}
